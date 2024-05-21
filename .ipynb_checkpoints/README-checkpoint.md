@@ -4,4 +4,7 @@ Banco de Dados
 
 * procedimentos de extração e limpeza sobre os arquivos originais  
 
-* arquivos temporários  
+* arquivos temporários
+
+
+Os arquivos csv são ignorados no github.
